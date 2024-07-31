@@ -1,4 +1,4 @@
-<img src="https://github.com/JulianaSantosOliveira/JulianaSantosOliveira/blob/main/logo.png" alt="minha logo" min-width="300px" max-width="300px" width="300px" align="right">
+<img src="https://github.com/JulianaSantosOliveira/JulianaSantosOliveira/blob/main/minha_logo.png" alt="minha logo" min-width="300px" max-width="300px" width="300px" align="right">
 
 ### Olá, meu nome é Juliana Santos!
 
