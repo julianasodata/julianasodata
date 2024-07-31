@@ -1,9 +1,9 @@
-<img src="https://github.com/JulianaSantosOliveira/JulianaSantosOliveira/blob/main/Logo Juliana 2.png.png" alt="minha logo" min-width="300px" max-width="300px" width="300px" align="right">
+<img src="https://github.com/JulianaSantosOliveira/JulianaSantosOliveira/blob/main/Logo Juliana 2.png" alt="minha logo" min-width="300px" max-width="300px" width="300px" align="right">
 
 ### Olá, meu nome é Juliana Santos!
 
 <p align="left"> 
-  No momento eu estou melhorando meu portifólio de Data Science. E claro como sempre me aperfeiçoando na área. 🤓
+  No momento estou melhorando meu portifólio de Data Science. E claro, como sempre, me aperfeiçoando na área. 🤓
 </p>
 
 <p>Atualmente estou trabalhando em parceria com a Fast Mídia. <br/>
