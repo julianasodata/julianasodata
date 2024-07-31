@@ -10,15 +10,19 @@
 </p>
 
 <p align="left">
-  💻 Linguagens: **Coloque as linguagens que você desenvolve.**
+  🎓 Cursos: .
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+  💻 Linguagens: .
 </p>
 
 <p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+  💼 Ferramentas: .
+</p>
+
+<p align="left">
+  💌 Se desejar entre em contato comigo: ⤵️
 </p>
 
 <p align="left">
