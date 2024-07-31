@@ -1,6 +1,6 @@
 ### Olá, meu nome é Juliana Santos!
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/JulianaSantosOliveira/logo_juliana.png/main/logo_juliana.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
   No momento eu estou melhorando meu portifólio de Data Science. E claro como sempre me aperfeiçoando na área. 🤓
