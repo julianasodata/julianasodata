@@ -1,4 +1,4 @@
-<img src="https://github.com/JulianaSantosOliveira/JulianaSantosOliveira/blob/main/logo_juliana.png" alt="minha logo" min-width="300px" max-width="300px" width="300px" align="right">
+<img src="https://github.com/JulianaSantosOliveira/JulianaSantosOliveira/blob/main/logo.png" alt="minha logo" min-width="300px" max-width="300px" width="300px" align="right">
 
 ### Olá, meu nome é Juliana Santos!
 
@@ -32,5 +32,5 @@
   <a href="#" title="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5544988314633" alt="WhatsApp"/></a>
   <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/datapearl?igsh=MTV5NG10Z3ozdHh1dw" alt="Instagram"/></a>
 </p>
