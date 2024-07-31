@@ -1,23 +1,23 @@
-### Olá, meu nome é Juliana Santos!
+<img src="https://github.com/JulianaSantosOliveira/JulianaSantosOliveira/blob/main/logo_juliana.png" alt="minha logo" min-width="300px" max-width="300px" width="300px" align="right">
 
-<img src="https://github.com/JulianaSantosOliveira/JulianaSantosOliveira/blob/main/logo_juliana.png" alt="minha logo" min-width="400px" max-width="400px" width="400px" align="right">
+### Olá, meu nome é Juliana Santos!
 
 <p align="left"> 
   No momento eu estou melhorando meu portifólio de Data Science. E claro como sempre me aperfeiçoando na área. 🤓
 </p>
 
-<p>Atualmente estou trabalhando em parceria com a Fast Mídia<br/>
+<p>Atualmente estou trabalhando em parceria com a Fast Mídia. <br/>
 
 <p align="left">
-  🎓 Cursos: .
+  🎓 Cursos: Engenheiro de Dados; Data Science e IA ...
 </p>
 
 <p align="left">
-  💻 Linguagens: .
+  💻 Linguagens: Python; Java ...
 </p>
 
 <p align="left">
-  💼 Ferramentas: .
+  💼 Ferramentas: Pandas; Seaborn; Scikit-learn; Notebooks Jupyter; ChatGPT ...
 </p>
 
 <p align="left">
