@@ -9,7 +9,7 @@
 <p>Atualmente estou trabalhando em parceria com a Fast Mídia. <br/>
 
 <p align="left">
-  🎓 Cursos: Engenheiro de Dados; Data Science e IA ...
+  🎓 Cursos: Ciência da Computação; Big Data; Banco de Dados...
 </p>
 
 <p align="left">
