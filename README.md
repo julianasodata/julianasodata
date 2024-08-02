@@ -3,7 +3,8 @@
 ### Olá, meu nome é Juliana Santos!
 
 <p align="left"> 
-  No momento estou melhorando meu portifólio de Data Science. E claro, como sempre, me aperfeiçoando na área. 🤓
+  É muito bom ter você aqui.❤️
+  Nesse momento estou melhorando meu portifólio de Data Science. E claro, como sempre, me aperfeiçoando na área. 🤓
 </p>
 
 <p>Atualmente estou trabalhando em parceria com a Fast Mídia. <br/>
@@ -24,6 +25,7 @@
   💌 Se desejar entre em contato comigo: ⤵️
 </p>
 
+
 <p align="left">
   <a href="mailto:juliana.snto.oliveira@gmail.com" target="_blank" rel="noreferrer noopener" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail" class="link_thumb"/></a>
@@ -34,4 +36,11 @@
   <a href="https://www.instagram.com/datapearl?igsh=MTV5NG10Z3ozdHh1dw" target="_blank" rel="noreferrer noopener" title="Instagram" >
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram" class="link_thumb"/></a>
 </p>
+
+----
+
+<div align = "left">
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaSantosOliveira&show_icons=true&theme=github_dark_dimmed&count_private=true"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=JulianaSantosOliveira&show_icons=true&show_icons=true&theme=github_dark_dimmed&count_private=true" />
+</div>
 
