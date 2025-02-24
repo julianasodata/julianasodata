@@ -14,11 +14,11 @@
 </p>
 
 <p align="left">
-  💻 Linguagens: Python; Java ...
+  💻 Linguagens: Python; R; Java; C++ ...
 </p>
 
 <p align="left">
-  💼 Ferramentas: Pandas; Seaborn; Scikit-learn; Notebooks Jupyter; ChatGPT ...
+  💼 Ferramentas: Pandas; Seaborn; Scikit-learn; Notebooks Jupyter; Copilot ...
 </p>
 
 <p align="left">
