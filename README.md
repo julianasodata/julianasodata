@@ -10,7 +10,7 @@
 <p>Atualmente estou trabalhando em parceria com a Fast Mídia. <br/>
 
 <p align="left">
-  🎓 Cursos: Ciência da Computação; Big Data; Banco de Dados...
+  🎓 Cursos: Ciência da Computação; Ciência de Dados; Big Data...
 </p>
 
 <p align="left">
