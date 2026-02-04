@@ -9,9 +9,7 @@
  </p>
 <p align="left"> 
   Como sempre estou melhorando meu portifólio de dados. E claro, me aperfeiçoando na área. 🤓
-</p>
-
-<p>Atualmente estou trabalhando em parceria com a Data Fly.</p>
+  Atualmente estou trabalhando em parceria com a Data Fly.</p>
 
 <p align="left">
   🎓 <strong>Formação</strong><br/>
