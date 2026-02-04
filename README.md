@@ -1,7 +1,7 @@
 
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td valign="top" style="border:none;"
+<table style="border-collapse:collapse; border:none;">
+  <tr style="border:none;">
+    <td valign="top" style="border:none; padding:0 30px 0 0;"
          
   ### Olá, meu nome é Juliana Santos!
   
@@ -52,7 +52,7 @@
   </p>
 
  </td>
-    <td valign="middle">
+<td valign="middle" style="border:none; padding:0;">
       <img src="https://github.com/julianasodata/julianasodata/blob/main/minha_logo.png"
            width="400px"
            alt="minha logo"/>
