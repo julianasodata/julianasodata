@@ -39,8 +39,12 @@
 
 ----
 
-<div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianasodata&show_icons=true&theme=github_dark_dimmed&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=julianasodata&show_icons=true&show_icons=true&theme=github_dark_dimmed&count_private=true" />
+<div align="left">
+  <img height="200em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianasodata&layout=compact&theme=github_dark_dimmed&v=1"/>
+
+  <img height="200em"
+       src="https://github-readme-stats.vercel.app/api?username=julianasodata&show_icons=true&theme=github_dark_dimmed&v=1"/>
 </div>
+
 
