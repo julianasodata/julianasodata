@@ -1,10 +1,9 @@
-<img src="https://github.com/julianasodata/julianasodata/blob/main/minha_logo.png"
-     alt="minha logo"
-     width="300px"
-     align="right"
-     style="margin-top: 120px;" />
 
 
+<table>
+  <tr>
+    <td valign="top">
+         
 ### Olá, meu nome é Juliana Santos!
 
 <p align="left"> 
@@ -53,8 +52,18 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram" class="link_thumb"/></a>
 </p>
 
-----
+ </td>
+    <td valign="middle">
+      <img src="https://github.com/julianasodata/julianasodata/blob/main/minha_logo.png"
+           width="300px"
+           alt="minha logo"/>
+    </td>
+  </tr>
+</table>
+
+
 <!-- 
+----
 <div align="left">
   <img height="200em"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianasodata&layout=compact&theme=github_dark_dimmed&v=1"/>
