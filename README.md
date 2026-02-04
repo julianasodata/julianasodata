@@ -1,4 +1,9 @@
-<img src="https://github.com/julianasodata/julianasodata/blob/main/minha_logo.png" alt="minha logo" min-width="300px" max-width="300px" width="300px" align="right">
+<img src="https://github.com/julianasodata/julianasodata/blob/main/minha_logo.png"
+     alt="minha logo"
+     width="300px"
+     align="right"
+     style="margin-top: 120px;" />
+
 
 ### Olá, meu nome é Juliana Santos!
 
@@ -11,51 +16,26 @@
 
 <p align="left">
   🎓 <strong>Formação</strong><br/>
-  • Ciência da Computação<br/>
-  • Ciência de Dados<br/>
-  • Big Data & Analytics
+  Ciência da Computação • Ciência de Dados • Big Data & Analytics
 </p>
 
 <p align="left">
-  💻 <strong>Linguagens</strong><br/>
-  • Python<br/>
-  • R<br/>
-  • Java<br/>
-  • C++
+  💻 <strong>Linguagens & Ferramentas</strong><br/>
+  Python • R • Java • C++<br/>
+  Pandas • NumPy • Seaborn • Matplotlib • Scikit-learn<br/>
+  Jupyter Notebook / Google Colab • Git & GitHub • GitHub Copilot
 </p>
 
 <p align="left">
-  💼 <strong>Ferramentas</strong><br/>
-  • Pandas, NumPy<br/>
-  • Seaborn, Matplotlib<br/>
-  • Scikit-learn<br/>
-  • Jupyter Notebook / Google Colab<br/>
-  • Git & GitHub<br/>
-  • GitHub Copilot
-</p>
-
-<p align="left">
-  📊 <strong>Metodologias</strong><br/>
-  • Análise Exploratória de Dados (EDA)<br/>
-  • Limpeza e Pré-processamento de Dados<br/>
-  • Modelagem Preditiva (Classificação)<br/>
-  • Avaliação de Modelos
-</p>
-
-<p align="left">
-  🤖 <strong>Machine Learning</strong><br/>
-  • Regressão Logística<br/>
-  • Árvore de Decisão<br/>
-  • Random Forest
+  📊 <strong>Metodologias & ML</strong><br/>
+  Análise Exploratória de Dados (EDA) • Pré-processamento de Dados<br/>
+  Regressão Logística • Árvore de Decisão • Random Forest
 </p>
 
 <p align="left">
   🧠 <strong>Habilidades</strong><br/>
-  • Pensamento analítico<br/>
-  • Resolução de problemas<br/>
-  • Comunicação de insights
+  Pensamento analítico • Resolução de problemas • Comunicação de insights
 </p>
-
 
 <p align="left">
   💌 Se desejar entre em contato comigo: ⤵️
