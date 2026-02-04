@@ -1,6 +1,9 @@
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td valign="top" width="680">
+<img src="https://github.com/julianasodata/julianasodata/blob/main/minha_logo.png"
+           width="360px"
+           alt="minha logo"
+  align="right"/>
+
+
 ### Olá, meu nome é Juliana Santos!
 
 É muito bom ter você aqui.❤️ Seja bem-vindo!
@@ -34,14 +37,7 @@ Pensamento analítico • Resolução de problemas • Comunicação de insights
 <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 <a href="https://www.instagram.com/datapearl?igsh=MTV5NG10Z3ozdHh1dw" target="_blank" rel="noreferrer noopener">
 <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/></a>
-   </td>
-    <td valign="middle" align="right">
-      <img src="https://github.com/julianasodata/julianasodata/blob/main/minha_logo.png"
-           width="360px"
-           alt="minha logo"/>
-    </td>
-  </tr>
-</table>
+
 
 <!-- 
 <div align="left">
