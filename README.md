@@ -10,16 +10,52 @@
 <p>Atualmente estou trabalhando em parceria com a Fast Mídia. <br/>
 
 <p align="left">
-  🎓 Cursos: Ciência da Computação; Ciência de Dados; Big Data...
+  🎓 <strong>Formação</strong><br/>
+  • Ciência da Computação<br/>
+  • Ciência de Dados<br/>
+  • Big Data & Analytics
 </p>
 
 <p align="left">
-  💻 Linguagens: Python; R; Java; C++ ...
+  💻 <strong>Linguagens</strong><br/>
+  • Python<br/>
+  • R<br/>
+  • Java<br/>
+  • C++
 </p>
 
 <p align="left">
-  💼 Ferramentas: Pandas; Seaborn; Scikit-learn; Notebooks Jupyter; Copilot ...
+  💼 <strong>Ferramentas</strong><br/>
+  • Pandas, NumPy<br/>
+  • Seaborn, Matplotlib<br/>
+  • Scikit-learn<br/>
+  • Jupyter Notebook / Google Colab<br/>
+  • Git & GitHub<br/>
+  • GitHub Copilot
 </p>
+
+<p align="left">
+  📊 <strong>Metodologias</strong><br/>
+  • Análise Exploratória de Dados (EDA)<br/>
+  • Limpeza e Pré-processamento de Dados<br/>
+  • Modelagem Preditiva (Classificação)<br/>
+  • Avaliação de Modelos
+</p>
+
+<p align="left">
+  🤖 <strong>Machine Learning</strong><br/>
+  • Regressão Logística<br/>
+  • Árvore de Decisão<br/>
+  • Random Forest
+</p>
+
+<p align="left">
+  🧠 <strong>Habilidades</strong><br/>
+  • Pensamento analítico<br/>
+  • Resolução de problemas<br/>
+  • Comunicação de insights
+</p>
+
 
 <p align="left">
   💌 Se desejar entre em contato comigo: ⤵️
