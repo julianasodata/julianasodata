@@ -10,8 +10,6 @@
 
 Como sempre estou melhorando meu portifólio de dados. E claro, me aperfeiçoando na área. 🤓
 
-Atualmente estou trabalhando em parceria com a **Data Fly**.
-
 🎓 **Formação**  
 Ciência da Computação • Ciência de Dados • Big Data & Analytics
 
